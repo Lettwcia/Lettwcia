@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Lettwcia 😁
+## Bem-vindo(a) ao perfil da Lettwcia!
 
  <div>
    <a href="https://github.com/lettwcia">
