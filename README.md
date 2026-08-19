@@ -1,24 +1,28 @@
-## Bem-vindo(a) ao perfil da Lettwcia!
+<div align="center">
 
- <div>
-   <a href="https://github.com/lettwcia">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lettwcia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettwcia&layout=compact&langs_count=6&theme=dark"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+# ⚡ ANA LETÍCIA
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+SYSTEM...;WELCOME+TO+MY+GITHUB;FRONT-END+DEVELOPER+IN+PROGRESS;REACT+%7C+TYPESCRIPT+%7C+JAVASCRIPT;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME" />
+
 <br>
- 
-### Minhas Redes Abaixo!
- 
-<div> 
- <a href="https://www.instagram.com/3am.lettwcia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/analtícia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-FRONT--END-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-REACT%20%26%20TYPESCRIPT-ff00ff?style=for-the-badge"/>
+
 </div>
+
+---
+
+## 🖥️ SYSTEM.INIT
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                    SYSTEM INITIALIZED                     ║
+╠════════════════════════════════════════════════════════════╣
+║ USER       : Ana Letícia                                  ║
+║ ROLE       : Developer in Progress                        ║
+║ SPECIALTY  : Web Development                              ║
+║ STATUS     : Learning / Building / Improving               ║
+║ SYSTEM     : React + TypeScript                           ║
+╚════════════════════════════════════════════════════════════╝
