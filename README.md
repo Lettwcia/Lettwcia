@@ -26,7 +26,7 @@
 ║ STATUS     : Learning / Building / Improving               ║
 ║ SYSTEM     : React + TypeScript                           ║
 ╚════════════════════════════════════════════════════════════╝
-
+```
 👩‍💻 Sobre Mim
 
 Olá! Eu sou Ana Letícia, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora web em formação.
