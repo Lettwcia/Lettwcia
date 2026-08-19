@@ -26,3 +26,82 @@
 ║ STATUS     : Learning / Building / Improving               ║
 ║ SYSTEM     : React + TypeScript                           ║
 ╚════════════════════════════════════════════════════════════╝
+
+👩‍💻 Sobre Mim
+
+Olá! Eu sou Ana Letícia, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora web em formação.
+
+Atualmente estou focada em desenvolver minhas habilidades em Front-End, criando projetos para colocar em prática meus conhecimentos de programação.
+
+Tenho interesse em transformar ideias em interfaces funcionais, bonitas e responsivas.
+
+> loading developer_profile...
+> learning new technologies...
+> building projects...
+> improving every day...
+> status: ONLINE ✓
+⚡ Tech Stack
+<div align="center">
+Front-End
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" /> </div>
+🛠️ Ferramentas
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" /> </div>
+🚀 Projetos
+<div align="center"> <table> <tr> <td width="50%">
+🎬 Studio Ghibli API
+
+Projeto desenvolvido com React + TypeScript consumindo uma API pública do Studio Ghibli.
+
+Tecnologias:
+
+React TypeScript Tailwind CSS React Router
+
+<br> <a href="https://github.com/Lettwcia/desafio---api"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </td> <td width="50%">
+💻 Em desenvolvimento...
+
+Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenvolvimento web.
+
+<br> <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-8A2BE2?style=for-the-badge"/> </td> </tr> </table> </div>
+🎯 Objetivos Atuais
+┌──[ana@github]─[~/goals]
+│
+├── [✓] HTML
+├── [✓] CSS
+├── [✓] JavaScript
+├── [✓] TypeScript
+├── [✓] React
+├── [→] Git & GitHub
+├── [→] APIs REST
+├── [→] Desenvolvimento Full Stack
+└── [→] Desenvolver projetos cada vez mais completos
+📊 GitHub Analytics
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lettwcia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lettwcia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Lettwcia&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/> </div>
+📈 Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lettwcia&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Lettwcia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </div>
+🐍 Contribution System
+<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
+🌐 Connect With Me
+<div align="center"> <a href="https://github.com/Lettwcia"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <!-- Adicione suas outras redes aqui --> <a href="SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> <a href="SEU_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF"/> </a> </div>
+<div align="center">
+⚡ SYSTEM STATUS
+████████████████████████████████████████ 100%
+
+SYSTEM ONLINE
+CODE LOADING...
+PROJECTS IN PROGRESS...
+FUTURE UNDER CONSTRUCTION...
+
+> Keep coding.
+> Keep learning.
+> Keep building.
+<br> <img src="https://komarev.com/ghpvc/?username=Lettwcia&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+「 BUILD • LEARN • CREATE 」
+
+</div> ```
