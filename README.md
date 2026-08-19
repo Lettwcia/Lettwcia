@@ -24,7 +24,6 @@ Tenho interesse em transformar ideias em interfaces funcionais, bonitas e respon
 
 # ⚡ Tech Stack
 <div align="center">
-Front-End
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" /> </div>
 🛠️ Ferramentas
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" /> </div>
