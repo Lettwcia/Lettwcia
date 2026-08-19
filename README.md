@@ -34,10 +34,6 @@ Front-End
 
 Projeto desenvolvido com React + TypeScript consumindo uma API pública do Studio Ghibli.
 
-# Tecnologias:
-
-React TypeScript Tailwind CSS React Router
-
 <br> <a href="https://github.com/Lettwcia/desafio---api"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </td> <td width="50%">
 💻 Em desenvolvimento...
 
