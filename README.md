@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ANA LETÍCIA
+# ANA LETÍCIA
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+SYSTEM...;WELCOME+TO+MY+GITHUB;FRONT-END+DEVELOPER+IN+PROGRESS;REACT+%7C+TYPESCRIPT+%7C+JAVASCRIPT;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME" />
 
@@ -14,19 +14,6 @@
 
 ---
 
-## 🖥️ SYSTEM.INIT
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    SYSTEM INITIALIZED                     ║
-╠════════════════════════════════════════════════════════════╣
-║ USER       : Ana Letícia                                  ║
-║ ROLE       : Developer in Progress                        ║
-║ SPECIALTY  : Web Development                              ║
-║ STATUS     : Learning / Building / Improving               ║
-║ SYSTEM     : React + TypeScript                           ║
-╚════════════════════════════════════════════════════════════╝
-```
 👩‍💻 Sobre Mim
 
 Olá! Eu sou Ana Letícia, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora web em formação.
@@ -35,11 +22,6 @@ Atualmente estou focada em desenvolver minhas habilidades em Front-End, criando 
 
 Tenho interesse em transformar ideias em interfaces funcionais, bonitas e responsivas.
 
-> loading developer_profile...
-> learning new technologies...
-> building projects...
-> improving every day...
-> status: ONLINE ✓
 ⚡ Tech Stack
 <div align="center">
 Front-End
@@ -62,18 +44,6 @@ React TypeScript Tailwind CSS React Router
 Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenvolvimento web.
 
 <br> <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-8A2BE2?style=for-the-badge"/> </td> </tr> </table> </div>
-🎯 Objetivos Atuais
-┌──[ana@github]─[~/goals]
-│
-├── [✓] HTML
-├── [✓] CSS
-├── [✓] JavaScript
-├── [✓] TypeScript
-├── [✓] React
-├── [→] Git & GitHub
-├── [→] APIs REST
-├── [→] Desenvolvimento Full Stack
-└── [→] Desenvolver projetos cada vez mais completos
 📊 GitHub Analytics
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lettwcia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lettwcia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> </div>
 🔥 GitHub Streak
@@ -85,23 +55,14 @@ Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenv
 🐍 Contribution System
 <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
 🌐 Connect With Me
-<div align="center"> <a href="https://github.com/Lettwcia"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <!-- Adicione suas outras redes aqui --> <a href="SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> <a href="SEU_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF"/> </a> </div>
+<div align="center"> <a href="https://github.com/Lettwcia"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <!-- Adicione suas outras redes aqui --> <a href="https://www.linkedin.com/in/analtícia/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> <a href="https://www.instagram.com/lettwciaremastered/"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF"/> </a> </div>
 <div align="center">
-⚡ SYSTEM STATUS
-████████████████████████████████████████ 100%
-
-SYSTEM ONLINE
-CODE LOADING...
-PROJECTS IN PROGRESS...
-FUTURE UNDER CONSTRUCTION...
-
+  
 > Keep coding.
 > Keep learning.
 > Keep building.
 <br> <img src="https://komarev.com/ghpvc/?username=Lettwcia&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br><br>
-
-「 BUILD • LEARN • CREATE 」
 
 </div> ```
