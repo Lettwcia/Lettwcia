@@ -26,11 +26,11 @@ Tenho interesse em transformar ideias em interfaces funcionais, bonitas e respon
 <div align="center">
 Front-End
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" /> </div>
-# 🛠️ Ferramentas
+🛠️ Ferramentas
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" /> </div>
-# 🚀 Projetos
+🚀 Projetos
 <div align="center"> <table> <tr> <td width="50%">
-# 🎬 Studio Ghibli API
+🎬 Studio Ghibli API
 
 Projeto desenvolvido com React + TypeScript consumindo uma API pública do Studio Ghibli.
 
@@ -46,15 +46,15 @@ Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenv
 <br> <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-8A2BE2?style=for-the-badge"/> </td> </tr> </table> </div>
 # 📊 GitHub Analytics
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lettwcia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lettwcia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> </div>
-# 🔥 GitHub Streak
+🔥 GitHub Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Lettwcia&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/> </div>
-# 📈 Activity
+ 📈 Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lettwcia&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true"/> </div>
-# 🏆 GitHub Trophies
+ 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Lettwcia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </div>
-# 🐍 Contribution System
+ 🐍 Contribution System
 <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
-# 🌐 Connect With Me
+ 🌐 Connect With Me
 <div align="center"> <a href="https://github.com/Lettwcia"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <!-- Adicione suas outras redes aqui --> <a href="https://www.linkedin.com/in/analtícia/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> <a href="https://www.instagram.com/lettwciaremastered/"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF"/> </a> </div>
 <div align="center">
   
