@@ -58,11 +58,9 @@ Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenv
 <div align="center"> <a href="https://github.com/Lettwcia"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <!-- Adicione suas outras redes aqui --> <a href="https://www.linkedin.com/in/analtícia/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> <a href="https://www.instagram.com/lettwciaremastered/"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF"/> </a> </div>
 <div align="center">
   
-> Keep coding.
-> Keep learning.
-> Keep building.
+
 <br> <img src="https://komarev.com/ghpvc/?username=Lettwcia&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-</div> ```
+</div> 
