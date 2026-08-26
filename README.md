@@ -2,7 +2,7 @@
 
 # ANA LETÍCIA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+SYSTEM...;WELCOME+TO+MY+GITHUB;FRONT-END+DEVELOPER+IN+PROGRESS;REACT+%7C+TYPESCRIPT+%7C+JAVASCRIPT;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+SYSTEM...;WELCOME+TO+MY+GITHUB;FULL-STACK+DEVELOPER+IN+PROGRESS;REACT+%7C+TYPESCRIPT+%7C+JAVASCRIPT;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME" />
 
 <br>
 
